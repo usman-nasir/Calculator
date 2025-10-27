@@ -27,6 +27,7 @@ body {
 
 .screen input {
     width: 100%;
+    overflow-x: auto;
     height: 72px;
     border: none;
     border-radius: 12px;
